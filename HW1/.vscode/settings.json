@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "printk.h": "c",
+        "kthread.h": "c",
+        "sched.h": "c",
+        "numa.h": "c",
+        "module.h": "c",
+        "jiffies.h": "c",
+        "typeinfo": "c",
+        "signal.h": "c",
+        "string_view": "c",
+        "bitset": "c",
+        "chrono": "c"
+    }
+}

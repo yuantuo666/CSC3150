@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/lib/modules/5.10.1/build",
+                "/home/seed/work/linux-5.10.1/**",
+                "/home/seed/work/linux-5.10.1/tools/arch/x86/include",
+                "/home/seed/work/linux-5.10.1/arch/x86/include/uapi"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-arm64"
+        }
+    ],
+    "version": 4
+}

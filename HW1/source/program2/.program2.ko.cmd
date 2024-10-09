@@ -1,0 +1,1 @@
+cmd_/home/csc3150/csc3150/source/program2/program2.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /home/csc3150/csc3150/source/program2/program2.ko /home/csc3150/csc3150/source/program2/program2.o /home/csc3150/csc3150/source/program2/program2.mod.o;  true
