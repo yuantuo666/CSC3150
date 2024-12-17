@@ -8,11 +8,11 @@ Learning resources about CSC3150: Operating System, 2024 Fall @ CUHK-Shenzhen.
 
 ## Resources
 
-- [100/100] [HW1](./HW1/report.md): Fork and pstree.
+- [110/100] [HW1](./HW1/report.md): Fork and pstree.
 - [100/100] [HW2](./HW2/Report.pdf): Multithreading: The Greatest Adventurer Game
 - [110/100] [HW3](./HW3/Report.pdf): Memory Mapping in xv6
 - [100/100] [HW4](./HW4/Report.pdf): Large File and Sym-links Support in xv6 File System
-- [?/100] [Final](./Final/Final.pdf): Final exam.
+- [59/100] [Final](./Final/Final.pdf): Final exam.
 
 
 # Course Information
